@@ -59,7 +59,6 @@ ctx.fillText('У игрока ' + names[maxIndex],160,175);
 	var indent = 50;
 	var initialX = 370;
 	var initialY = 10;
-	var column;
 
 	for(var j = 0; j < times.length; j++){
 		var name = names[j];
